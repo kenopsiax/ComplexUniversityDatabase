@@ -1,0 +1,1 @@
+alter table Researches add primary key (FacultyMemberSSN,AreaID);

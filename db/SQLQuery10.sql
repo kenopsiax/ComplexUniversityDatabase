@@ -1,0 +1,1 @@
+ALTER TABLE Course ALTER COLUMN CourseCode nchar(12) not null;

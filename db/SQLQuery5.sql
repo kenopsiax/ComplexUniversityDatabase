@@ -1,0 +1,7 @@
+INSERT INTO Course_keywords
+VALUES 
+(10,'105101T12022'),
+(12,'501003362018'),
+(13,'TEC-4'),
+(14,'TEC.ELEC.-3 '),
+(15,'TEC.ELEC.-3' );
